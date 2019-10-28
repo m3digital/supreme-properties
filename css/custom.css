@@ -1,0 +1,7 @@
+.first-screen {
+  background: url("/images/charlotte-park.jpeg") no-repeat center;
+  background-size: cover;
+  position: relative; }
+.logo{
+	font-size: 18px;
+}

@@ -1,0 +1,156 @@
+body {
+  color: #272626; }
+
+#page-preloader .spinner:before {
+  border-top-color: #eadd26; }
+
+.main-menu ul li a:after {
+  background: #eadd26; }
+
+.main-social a:hover {
+  color: #eadd26; }
+
+.main-social a:active {
+  color: #ded00a; }
+
+.site-btn {
+  background: #eadd26;
+  color: #fff; }
+
+.site-btn:hover {
+  background: #ded00a; }
+
+.about-image:before {
+  border-color: #eadd26; }
+
+.sign-box {
+  color: #999999; }
+
+.house-img .img-label {
+  background: #eadd26;
+  color: #444444; }
+
+.house-img .icofont {
+  color: #eadd26; }
+
+.house-text-box .house-short-description {
+  color: #999999; }
+
+.more-text:hover {
+  color: #eadd26; }
+
+.more-text:active {
+  color: #ded00a; }
+
+.question-section:before {
+  background: #eadd26;
+  opacity: 0.9; }
+
+.question-section .question-text a:hover {
+  color: #eadd26; }
+
+.question-section .question-text a:active {
+  color: #ded00a; }
+
+.slick-dots li.slick-active button {
+  background: #eadd26; }
+
+.slick-dots li button:hover {
+  background: #eadd26; }
+
+.slick-dots li button:active {
+  background: #ded00a; }
+
+.panel-heading {
+  padding: 0; }
+
+.panel-heading a {
+  border-left: 5px solid #eadd26; }
+
+.panel-heading a .icofont {
+  color: #eadd26; }
+
+.panel-body {
+  border-left: 5px solid #eadd26 !important; }
+
+.phone-bottom a:hover {
+  color: #eadd26; }
+
+.phone-bottom a:active {
+  color: #ded00a; }
+
+.form-wrapper .site-input {
+  color: #999999; }
+
+.form-wrapper .site-input::-webkit-input-placeholder {
+  color: #999999; }
+
+.form-wrapper .site-input::-moz-placeholder {
+  color: #999999; }
+
+.form-wrapper .site-input:-moz-placeholder {
+  color: #999999; }
+
+.form-wrapper .site-input:-ms-input-placeholder {
+  color: #999999; }
+
+.form-wrapper .site-input:disabled {
+  color: #dddddd;
+  background: #fff; }
+
+.form-wrapper .site-input:disabled::-webkit-input-placeholder {
+  color: #dddddd; }
+
+.form-wrapper .site-input:disabled::-moz-placeholder {
+  color: #dddddd; }
+
+.form-wrapper .site-input:disabled:-moz-placeholder {
+  color: #dddddd; }
+
+.form-wrapper .site-input:disabled:-ms-input-placeholder {
+  color: #dddddd; }
+
+.divider-line {
+  background: #eadd26; }
+
+.footer {
+  background: #e8e8e8;
+  color: #999999; }
+
+.back-home a:hover {
+  color: #eadd26; }
+
+.back-home a:active {
+  color: #ded00a; }
+
+.single-slider .slick-prev:hover, .single-slider .slick-next:hover {
+  color: #eadd26; }
+
+.single-slider .slick-prev:active, .single-slider .slick-next:active {
+  color: #ded00a; }
+
+.property-information-wrapper {
+  background: #eadd26; }
+
+.filter-radio input[type=radio]:checked + label:after {
+  background: #eadd26; }
+
+.radio-wrap .quantity {
+  color: #cecece; }
+
+.custom-select-button {
+  color: #999999; }
+
+.custom-select-button:after, .range-wrap label:after {
+  color: #eadd26; }
+
+.ui-slider-range {
+  background: #eadd26; }
+
+.mob-menu-wrapper {
+  background: #eadd26; }
+
+.about-image {
+  border-color: #eadd26; }
+
+/*# sourceMappingURL=maps/color.css.map */

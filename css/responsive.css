@@ -1,0 +1,140 @@
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px; } }
+
+@media (max-width: 1199px) {
+  .flex-box {
+    display: block;
+    margin: 0; }
+  #map {
+    height: 450px;
+    margin-top: 0; }
+  .property-information-box {
+    max-width: 970px; }
+  .property-information-box .section-title {
+    text-align: center; }
+  .property-information-section > .container-fluid {
+    padding: 0; }
+  .property-information-wrapper .row {
+    margin: 0; } }
+
+@media (max-width: 991px) {
+  .about-image {
+    max-width: 330px;
+    margin: 0 auto; }
+  .filter-radio {
+    margin: 0 0 15px 0;
+    display: block; }
+  .filter-select {
+    margin: 0;
+    display: block; }
+  .filter-select .select-wrapper {
+    margin: 0 0 15px 0; }
+  .filter-range {
+    margin: 0; }
+  .first-screen {
+    background: url("../media/bg/main-bg-991.jpg") no-repeat center;
+    background-size: cover; }
+  .question-section br {
+    display: none; }
+  .single-slider-item {
+    text-align: center;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    margin: 0; }
+  .single-slider-item img {
+    display: inline-block;
+    max-width: 100%; }
+  .single-slider .slick-list:before,
+  .single-slider .slick-list:after {
+    display: none; }
+  .single-slider {
+    max-width: 555px;
+    margin: 0 auto 79px; }
+  .single-slider .slick-next {
+    right: 0;
+    margin-right: 0; }
+  .single-slider .slick-prev {
+    left: 0;
+    margin-left: 0; }
+  .single-small-info-box {
+    margin-bottom: 30px; } }
+
+@media (max-width: 767px) {
+  .about-image {
+    border: 5px solid; }
+  .about-image:before {
+    display: none; }
+  .sign-box {
+    padding-right: 0; }
+  .sign-box .sign-image {
+    position: static;
+    float: right;
+    margin-top: 5px; }
+  .main-social {
+    display: block;
+    margin-bottom: 15px; }
+  .main-name {
+    margin-right: 0; }
+  .greetings-box {
+    text-align: center;
+    padding: 158px 0 60px; }
+  #free-consultation {
+    right: 0;
+    margin: auto; }
+  h1 {
+    font-size: 50px; }
+  .consultation-form-wrapper input[type=submit] {
+    min-width: initial;
+    margin-left: -5px; }
+  .consultation-form-wrapper input[type=tel] {
+    margin-right: 0;
+    max-width: 193px; }
+  .about-section, .question-section, .testimonials-section,
+  .faq-section, .contact-section,
+  .video-tour-section, .property-information-wrapper {
+    padding: 60px 0; }
+  .offers-section, .featured-properties, .about-property-section {
+    padding: 60px 0 30px; }
+  .single-short-info {
+    text-align: center;
+    padding: 158px 0 60px; }
+  .divider-line {
+    margin: 0 auto 10px; }
+  .single-small-info-box {
+    padding-left: 0;
+    padding-top: 60px;
+    text-align: center; }
+  .single-small-info-box img {
+    right: 0;
+    margin: auto; }
+  .information-box ul li {
+    width: 49.5%; } }
+
+@media (max-width: 660px) {
+  .house-box-wrapper {
+    width: 100%; }
+  .panel-body {
+    padding: 0 20px 52px 15px; }
+  .single-slider .slick-prev {
+    display: none !important; }
+  .single-slider .slick-next {
+    display: none !important; }
+  .house-text-box .house-name h4 {
+    white-space: normal; }
+  .house-text-box .house-short-description {
+    height: auto; } }
+
+@media (max-width: 480px) {
+  .contact-small-box {
+    width: 100%; }
+  .information-box ul li {
+    width: 100%;
+    text-align: center; }
+  .information-box-title {
+    text-align: center; }
+  .question-section h3 {
+    font-size: 24px; } }
+
+/*# sourceMappingURL=maps/responsive.css.map */

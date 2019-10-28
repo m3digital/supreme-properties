@@ -1,0 +1,259 @@
+$accent-color: #eadd26;
+$active-color: #ded00a;
+$text-color: #272626;
+$text-color2: #999999;
+
+body {
+  color: $text-color;
+}
+
+#page-preloader .spinner:before {
+  border-top-color: $accent-color;
+}
+
+.main-menu {
+
+  ul {
+
+    li {
+
+      a {
+
+        &:after {
+          background: $accent-color;
+        }
+      }
+    }
+  }
+}
+
+.main-social {
+
+  a {
+
+    &:hover {
+      color: $accent-color;
+    }
+
+    &:active {
+      color: $active-color;
+    }
+  }
+}
+
+.site-btn {
+  background: $accent-color;
+  color: #fff;
+
+  &:hover {
+    background: $active-color;
+  }
+}
+
+.about-image {
+
+  &:before {
+    border-color: $accent-color;
+  }
+}
+
+.sign-box {
+  color: $text-color2;
+}
+
+.house-img {
+
+  .img-label {
+    background: $accent-color;
+    color: #444444;
+  }
+
+  .icofont {
+    color: $accent-color;
+  }
+}
+
+.house-text-box {
+  .house-short-description {
+    color: $text-color2;
+  }
+}
+
+.more-text {
+  &:hover {
+    color: $accent-color;
+  }
+
+  &:active {
+    color: $active-color;
+  }
+}
+
+.question-section {
+
+  &:before {
+    background: $accent-color;
+    opacity: 0.9;
+  }
+
+  .question-text {
+
+    a {
+
+      &:hover {
+        color: $accent-color;
+      }
+
+      &:active {
+        color: $active-color;
+      }
+    }
+  }
+
+}
+
+.slick-dots {
+  li {
+
+    &.slick-active {
+      button {
+        background: $accent-color;
+      }
+    }
+
+    button:hover {
+      background: $accent-color;
+    }
+
+    button:active {
+      background: $active-color;
+    }
+  }
+}
+
+.panel-heading {
+  padding: 0;
+
+  a {
+    border-left: 5px solid $accent-color;
+
+    .icofont {
+      color: $accent-color;
+    }
+  }
+}
+
+.panel-body {
+  border-left: 5px solid $accent-color!important;
+}
+
+.phone-bottom a {
+  &:hover {
+    color: $accent-color;
+  }
+  &:active {
+    color: $active-color;
+  }
+}
+
+.form-wrapper {
+
+  .site-input {
+    color: #999999;
+
+    &::-webkit-input-placeholder {color:#999999}
+    &::-moz-placeholder          {color:#999999}
+    &:-moz-placeholder           {color:#999999}
+    &:-ms-input-placeholder      {color:#999999}
+
+    &:disabled {
+      color: #dddddd;
+      background: #fff;
+
+      &::-webkit-input-placeholder {color:#dddddd}
+      &::-moz-placeholder          {color:#dddddd}
+      &:-moz-placeholder           {color:#dddddd}
+      &:-ms-input-placeholder      {color:#dddddd}
+    }
+  }
+
+  textarea.site-input {
+
+  }
+}
+
+.divider-line {
+  background: $accent-color;
+}
+
+.footer {
+  background: #e8e8e8;
+  color: $text-color2;
+}
+
+.back-home a {
+  &:hover {
+    color: $accent-color;
+  }
+  &:active {
+    color: $active-color;
+  }
+}
+
+.single-slider {
+
+  .slick-prev, .slick-next {
+    &:hover {
+      color: $accent-color;
+    }
+    &:active {
+      color: $active-color;
+    }
+  }
+}
+
+.property-information-wrapper {
+  background: $accent-color;
+}
+
+.filter-radio {
+  input[type=radio]{
+    &:checked {
+      & + label {
+        &:after {
+          background: $accent-color;
+        }
+      }
+    }
+  }
+}
+
+.radio-wrap {
+
+ .quantity {
+   color: #cecece;
+ }
+}
+
+.custom-select-button {
+  color: $text-color2;
+}
+
+.custom-select-button, .range-wrap label {
+
+  &:after {
+    color: $accent-color;
+  }
+}
+
+.ui-slider-range {
+  background: $accent-color;
+}
+
+.mob-menu-wrapper {
+  background: $accent-color;
+}
+
+.about-image {
+  border-color: $accent-color;
+}

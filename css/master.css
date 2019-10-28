@@ -1,0 +1,27 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Restate - HTML Template
+Version:	1.0
+Author:	    Andrey Sokoltsov
+Profile:	http://themeforest.net/user/andreysokoltsov
+-------------------------------------------------------------------*/
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+@import url('font-awesome.min.css');
+@import url('icofont.css');
+
+/* PLUGIN CSS */
+@import url('../assets/slick-1.6.0/slick/slick.css');
+@import url('../assets/jquery-ui-1.12.1.slider/jquery-ui.min.css');
+
+/* MAIN CSS */
+@import url("bootstrap.min.css");
+@import url("typography.css");
+@import url("theme.css");
+@import url("responsive.css");
+@import url('color.css');
+@import url("custom.css");
