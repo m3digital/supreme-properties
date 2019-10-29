@@ -299,7 +299,9 @@ body {
   margin-bottom: 10px; }
 
 .greetings-box-body {
-  margin-bottom: 30px; }
+  margin-bottom: 20px; 
+  margin-top: 20px
+  }
 
 .site-btn {
   padding: 15px 15px 11px;
