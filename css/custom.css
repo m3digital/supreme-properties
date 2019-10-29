@@ -9,13 +9,29 @@
   background-color: whitesmoke
 }
 
-.greetings-box-body {
+@media only screen and (max-width: 768px) {
+  .greetings-box-body {
+    justify-self: center
+  }
+}
+.greetings-box-body-alt {
   padding: 10px;
   color: white;
-  border-radius: 6px
+  border-radius: 6px;
+  background-color:#eadd26;
+  padding: 10px;
+  color: white;
+  border-radius: 6px;
+
 }
 
 .main-name {
   font-weight: bold;
   padding: 10px;
   border-radius: 6px}
+
+  @media only screen and (max-width: 768px) {
+    #realtorIcon {
+      margin-top:10px
+    }
+}
