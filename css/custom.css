@@ -45,4 +45,7 @@
     left: -15px;
     background-color: whitesmoke
   }
+  img#marySign {
+    float: right
+  }
 }
