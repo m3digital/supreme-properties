@@ -1,51 +1,68 @@
 .first-screen {
   background: url("../images/charlotte-park.jpeg") no-repeat center;
   background-size: cover;
-  position: relative; }
-.logo{
-	font-size: 18px;
+  position: relative;
+}
+.logo {
+  font-size: 18px;
 }
 #meetMary {
-  background-color: whitesmoke
+  background-color: whitesmoke;
 }
 
 @media only screen and (max-width: 768px) {
   .greetings-box-body {
-    justify-self: center
+    justify-self: center;
   }
 }
 .greetings-box-body-alt {
   padding: 10px;
   color: white;
   border-radius: 6px;
-  background-color:#eadd26;
+  background-color: #eadd26;
   width: fit-content;
   display: inline-block;
   padding: 10px;
   color: white;
   border-radius: 6px;
-
 }
 
 .main-name {
   font-weight: bold;
   padding: 10px;
-  border-radius: 6px}
-
-  @media only screen and (max-width: 768px) {
-    #realtorIcon {
-      margin-top:10px
-    }
+  border-radius: 6px;
 }
-@media only screen and (max-width: 992px) and (min-width: 768px){
+
+@media only screen and (max-width: 768px) {
+  #realtorIcon {
+    margin-top: 10px;
+  }
+}
+@media only screen and (max-width: 992px) and (min-width: 768px) {
   .sign-image {
     width: 750px;
     display: inline-block;
     position: relative;
     left: -15px;
-    background-color: whitesmoke
+    background-color: whitesmoke;
   }
   img#marySign {
-    float: right
+    float: right;
   }
+}
+
+.margin-top {
+  margin-top: 10px;
+}
+
+.header-backdrop {
+  /* backdrop-filter: url(filters.svg#filter) blur(9px) saturate(150%)
+    drop-shadow(9px 4px 10px black); */
+  background-color: white;
+  color: black;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 5px;
+  font-size: 25px;
+  width: fit-content;
 }
